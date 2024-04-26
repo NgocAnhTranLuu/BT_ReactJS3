@@ -1,1 +1,43 @@
+.shose_detail {
+    padding-right: 0 50px;
+}
 
+.shose_detail h3 {
+    text-align: center;
+}
+
+.shose_item {
+    padding: 0px;
+    position: relative;
+}
+
+.shose_item .card-body {
+    padding: 0 20px 20px;
+}
+
+.shose_item .shose_item_title {
+    position: absolute;
+    top: 10px;
+    left: 0;
+
+    padding: 0 20px;
+    /* text-align: center; */
+}
+
+.shose_item img{
+    margin-top: 30px;
+}
+.shose_item h5 {
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+.shose_item p {
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+.shose_item button {
+    font-size: 0.8rem;
+
+}
